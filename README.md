@@ -8,10 +8,10 @@
     <img src="https://komarev.com/ghpvc/?username=JesusAraujoDEV&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>   
-              
+  
 
 <p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+ <img  height="280rem" alt="GIF" src="https://c.tenor.com/b3xW7DQjtc0AAAAC/tenor.gif" />
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
@@ -109,6 +109,10 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
 <br>
+
+<p align="center" >
+ <img  height="280rem" alt="GIF" src="https://c.tenor.com/9v_xCrM_qyMAAAAd/tenor.gif" />
+ </p>
 
 #### <p align="center"><b>Thank you for taking the time to read my profile 💖:</b></p>
 
