@@ -107,7 +107,7 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 ## <b>💪Quote || Fact</b>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=b8ffc8&center=true&vCenter=true&width=900&height=110&lines="If,+you+can+imagine+it.+Then,+you+can+program+it".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
 <br>
 
