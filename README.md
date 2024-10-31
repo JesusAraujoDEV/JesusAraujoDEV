@@ -115,7 +115,7 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
  <img  height="280rem" alt="GIF" src="https://c.tenor.com/9v_xCrM_qyMAAAAd/tenor.gif" />
  </p>
 
-#### <p align="center"><b>Thank you for taking the time to read my profile 💖:</b></p>
+#### <p align="center"><b>Thank you for taking the time to read my profile 💖</b></p>
 
 
 -----
