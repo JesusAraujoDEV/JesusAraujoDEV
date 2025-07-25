@@ -67,6 +67,14 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 
 <br />
 
+## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> My Recent GitHub contributions
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=JesusAraujoDEV&theme=nightowl)](https://github.com/JesusAraujoDEV)
+
+<br>
+
+<br />
+
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> My Recent GitHub Activity
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=JesusAraujoDEV&theme=nightowl)](https://github.com/JesusAraujoDEV)
