@@ -75,6 +75,8 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 <br />
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> My Recent GitHub Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <br>
 
