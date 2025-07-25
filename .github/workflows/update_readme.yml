@@ -8,24 +8,23 @@ on:
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permiso necesario para que la acción pueda escribir en el README.md
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Update README with Recent Activity
-        uses: JamesIves/github-readme-linkedin-recent-activity@v1.4.1 # Usamos esta acción
+        uses: jamesgeorge007/github-activity-readme@master # ¡Esta es la acción correcta!
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # El token para autenticación
         with:
           GH_USERNAME: 'JesusAraujoDEV' # Tu nombre de usuario de GitHub
-          COMMIT_MESSAGE: 'Update README with latest GitHub activity'
-          MAX_LINES: '10' # Número máximo de líneas de actividad a mostrar (ajusta si quieres más o menos)
-          # No se necesita GITHUB_TOKEN explícitamente si solo lees actividades públicas
-          # y no manipulas repositorios privados con la acción.
-          # Si en el futuro agregas LinkedIn, necesitarás configurar LKD_ACCESS_TOKEN como un secreto.
-    
-      - name: Push Changes
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add README.md
-          git commit -m "Automated: Update recent activity" || echo "No changes to commit"
-          git push || echo "No changes to push"
+          COMMIT_NAME: 'github-actions[bot]' # Nombre del committer (opcional, default es 'github-actions[bot]')
+          COMMIT_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com' # Email del committer (opcional)
+          COMMIT_MSG: 'Update README with latest GitHub activity' # Mensaje del commit
+          MAX_LINES: 10 # Número máximo de líneas de actividad a mostrar (ajusta si quieres más o menos)
+          TARGET_FILE: 'README.md' # El archivo a actualizar, por si tu README no se llama así (común en repositorios de perfil)
+
+      # El paso de push ya no es necesario con esta acción, ya que ella misma hace el commit y push si hay cambios.
+      # Elimina el paso "Push Changes" que te di anteriormente.
