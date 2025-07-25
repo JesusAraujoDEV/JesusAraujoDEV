@@ -1,18 +1,31 @@
-name: Update README
+name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Se ejecuta todos los días a medianoche UTC
+  workflow_dispatch: # Permite ejecutar el workflow manualmente
 
 jobs:
-  build:
+  update-activity:
     runs-on: ubuntu-latest
-    name: Update Profile README
-
     steps:
-      - uses: actions/checkout@v4.2.2
-      
-      - uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update README with Recent Activity
+        uses: JamesIves/github-readme-linkedin-recent-activity@v1.4.1 # Usamos esta acción
+        with:
+          GH_USERNAME: 'JesusAraujoDEV' # Tu nombre de usuario de GitHub
+          COMMIT_MESSAGE: 'Update README with latest GitHub activity'
+          MAX_LINES: '10' # Número máximo de líneas de actividad a mostrar (ajusta si quieres más o menos)
+          # No se necesita GITHUB_TOKEN explícitamente si solo lees actividades públicas
+          # y no manipulas repositorios privados con la acción.
+          # Si en el futuro agregas LinkedIn, necesitarás configurar LKD_ACCESS_TOKEN como un secreto.
+    
+      - name: Push Changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git commit -m "Automated: Update recent activity" || echo "No changes to commit"
+          git push || echo "No changes to push"
