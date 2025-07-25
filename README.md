@@ -1,4 +1,3 @@
-
 <h2 align="center"> Hi 👋 , I'm Jesús Araujo <br/></h2> 
 <h3 align="center">Also known as "Jesu" to other people. <br> <br>
   <a href="https://github.com/IsratIJK" target="_blank">
@@ -8,27 +7,24 @@
     <img src="https://komarev.com/ghpvc/?username=JesusAraujoDEV&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>   
-  
 
 <p align="center" >
- <img  height="280rem" alt="GIF" src="https://c.tenor.com/b3xW7DQjtc0AAAAC/tenor.gif" />
- </p>
+  <img  height="280rem" alt="GIF" src="https://c.tenor.com/b3xW7DQjtc0AAAAC/tenor.gif" />
+  </p>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a passion for learning new technologies. Constantly exploring and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I aim to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together.
 
- -  🔭 Working on a cool mobile app project
+ - 🔭 Working on a cool mobile app project
 
 - 👯 I’m looking forward to collaborate on python projects.
 
-- 🌱  Learning mobile development.
-
+- 🌱 Learning mobile development, **C#**, and **.NET**.
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 <br>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,9 +41,7 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<!--[NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -79,7 +73,7 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏns</strong></h3>
       <p align="center">
         <a href="https://github.com/JesusAraujoDEV">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=JesusAraujoDEV&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
@@ -88,28 +82,32 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
     </td>
   </tr>
 </table>
+
 <br />
 
+## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> My Recent GitHub Activity
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=JesusAraujoDEV&theme=nightowl)](https://github.com/JesusAraujoDEV)
 
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
 <a href="https://www.linkedin.com/in/jes%C3%BAs-araujo-5ba6b0274/">
-          <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Top Repo" />
-        </a>
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://www.instagram.com/jesulovescereal/">
-          <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Top Repo" />
-        </a>
+  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
 <a href="mailto:j2a0a0a5@gmail.com">
-          <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Top Repo" />
-        </a>
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 <a href="https://letterboxd.com/JesuCritico/">
-          <img align="center" src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white" alt="Top Repo" />
-        </a>
+  <img align="center" src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white" alt="Letterboxd" />
+</a>
 <a href="https://www.op.gg/summoners/lan/JesuPero-Pepes">
-          <img align="center" src="https://img.shields.io/badge/League%20of%20Legends-C28F2C.svg?style=for-the-badge&logo=League-of-Legends&logoColor=white" alt="Top Repo" />
-        </a>
+  <img align="center" src="https://img.shields.io/badge/League%20of%20Legends-C28F2C.svg?style=for-the-badge&logo=League-of-Legends&logoColor=white" alt="League of Legends" />
+</a>
 
 
 ## <b>💪Quote || Fact</b>
@@ -120,10 +118,9 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 <br>
 
 <p align="center" >
- <img  height="280rem" alt="GIF" src="https://c.tenor.com/9v_xCrM_qyMAAAAd/tenor.gif" />
- </p>
+  <img  height="280rem" alt="GIF" src="https://c.tenor.com/9v_xCrM_qyMAAAAd/tenor.gif" />
+  </p>
 
 #### <p align="center"><b>Thank you for taking the time to read my profile 💖</b></p>
 
-
------
+---
