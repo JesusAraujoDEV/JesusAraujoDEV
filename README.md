@@ -76,8 +76,8 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/JesusAraujoDEV/mediart/pull/8) in [JesusAraujoDEV/mediart](https://github.com/JesusAraujoDEV/mediart)
-2. 🔒 Closed issue [#1](https://github.com/JesusAraujoDEV/mediart/issues/1) in [JesusAraujoDEV/mediart](https://github.com/JesusAraujoDEV/mediart)
+1. 💪 Opened PR [#3](https://github.com/JoseS-Dev/Tarea_IV/pull/3) in [JoseS-Dev/Tarea_IV](https://github.com/JoseS-Dev/Tarea_IV)
+2. 🗣 Commented on [#1](https://github.com/JoseS-Dev/Tarea_IV/issues/1#issuecomment-3120019180) in [JoseS-Dev/Tarea_IV](https://github.com/JoseS-Dev/Tarea_IV)
 <!--END_SECTION:activity-->
 
 <br>
