@@ -1,4 +1,7 @@
 <h2 align="center"> Hi 👋 , I'm Jesús Araujo <br/></h2> 
+
+
+
 <h3 align="center">Also known as "Jesu" to other people. <br> <br>
   <a href="https://github.com/IsratIJK" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/JesusAraujoDEV?label=Github%20followers&style=for-the-badge">
@@ -44,25 +47,29 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
+<p align="center">
+    <img src="https://user-badge.committers.top/venezuela_public/JesusAraujoDEV.svg" alt="committers.top badge" />
+</p>
+
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/JesusAraujoDEV">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusAraujoDEV&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Languages</strong></h3>
-      <p align="center">
-        <a href="https://github.com/JesusAraujoDEV">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAraujoDEV&layout=compact&theme=nightowl"/>
-        </a>
-      </p>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/JesusAraujoDEV">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusAraujoDEV&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/JesusAraujoDEV">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAraujoDEV&layout=compact&theme=nightowl"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br />
