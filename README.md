@@ -83,8 +83,8 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/JesusAraujoDEV/mediart/pull/21) in [JesusAraujoDEV/mediart](https://github.com/JesusAraujoDEV/mediart)
-2. 💪 Opened PR [#21](https://github.com/JesusAraujoDEV/mediart/pull/21) in [JesusAraujoDEV/mediart](https://github.com/JesusAraujoDEV/mediart)
+1. 🗣 Commented on [#3](https://github.com/irisruip/Lenguajes_de_programacion/issues/3#issuecomment-3293612201) in [irisruip/Lenguajes_de_programacion](https://github.com/irisruip/Lenguajes_de_programacion)
+2. 🗣 Commented on [#2](https://github.com/irisruip/Lenguajes_de_programacion/issues/2#issuecomment-3293607420) in [irisruip/Lenguajes_de_programacion](https://github.com/irisruip/Lenguajes_de_programacion)
 <!--END_SECTION:activity-->
 
 <br>
