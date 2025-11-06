@@ -83,8 +83,8 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/irisruip/Lenguajes_de_programacion/issues/2#issuecomment-3298459406) in [irisruip/Lenguajes_de_programacion](https://github.com/irisruip/Lenguajes_de_programacion)
-2. 🗣 Commented on [#3](https://github.com/irisruip/Lenguajes_de_programacion/issues/3#issuecomment-3298455526) in [irisruip/Lenguajes_de_programacion](https://github.com/irisruip/Lenguajes_de_programacion)
+1. 🗣 Commented on [#1](https://github.com/JesusAraujoDEV/fundamentos-machine-learning/issues/1#issuecomment-3491973831) in [JesusAraujoDEV/fundamentos-machine-learning](https://github.com/JesusAraujoDEV/fundamentos-machine-learning)
+2. 🔒 Closed issue [#1](https://github.com/JesusAraujoDEV/fundamentos-machine-learning/issues/1) in [JesusAraujoDEV/fundamentos-machine-learning](https://github.com/JesusAraujoDEV/fundamentos-machine-learning)
 <!--END_SECTION:activity-->
 
 <br>
