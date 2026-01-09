@@ -83,8 +83,8 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Farreto06/Interface/pull/4) in [Farreto06/Interface](https://github.com/Farreto06/Interface)
-2. 💪 Opened PR [#4](https://github.com/Farreto06/Interface/pull/4) in [Farreto06/Interface](https://github.com/Farreto06/Interface)
+1. 🎉 Merged PR [#12](https://github.com/Farreto06/Interface/pull/12) in [Farreto06/Interface](https://github.com/Farreto06/Interface)
+2. 💪 Opened PR [#12](https://github.com/Farreto06/Interface/pull/12) in [Farreto06/Interface](https://github.com/Farreto06/Interface)
 <!--END_SECTION:activity-->
 
 <br>
