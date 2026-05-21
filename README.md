@@ -83,8 +83,8 @@ I am Jesús Araujo, a Computer Engineering student and a tech enthusiast with a 
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/JesusAraujoDEV/interfaces-control/pull/49) in [JesusAraujoDEV/interfaces-control](https://github.com/JesusAraujoDEV/interfaces-control)
-2. 💪 Opened PR [#49](https://github.com/JesusAraujoDEV/interfaces-control/pull/49) in [JesusAraujoDEV/interfaces-control](https://github.com/JesusAraujoDEV/interfaces-control)
+1. 🎉 Merged PR [#1](https://github.com/cesardarizaleta/jepo/pull/1) in [cesardarizaleta/jepo](https://github.com/cesardarizaleta/jepo)
+2. 💪 Opened PR [#1](https://github.com/cesardarizaleta/jepo/pull/1) in [cesardarizaleta/jepo](https://github.com/cesardarizaleta/jepo)
 <!--END_SECTION:activity-->
 
 <br>
