@@ -40,6 +40,7 @@ interests:
   - Learning new technologies
   - Open Source contributions
   - Cinema & Storytelling
+  - Germany & German language 🇩🇪
 fun_fact: "If you can imagine it, you can program it"
 ```
 
@@ -49,6 +50,7 @@ fun_fact: "If you can imagine it, you can program it"
 - 🌱 &nbsp;Learning **Mobile Development**, **C#**, and **.NET**
 - 👯 &nbsp;Looking to collaborate on **Python** and **open source** projects
 - 💬 &nbsp;Ask me about anything tech-related, happy to help!
+- 🇩🇪 &nbsp;German language enthusiast — **Ich lerne Deutsch!**
 - 🎬 &nbsp;When not coding, you'll find me reviewing movies on Letterboxd
 
 <br>
@@ -107,28 +109,15 @@ fun_fact: "If you can imagine it, you can program it"
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/JesusAraujoDEV">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JesusAraujoDEV&count_private=true&show_icons=true&theme=nightowl&hide_border=true&bg_color=011627" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=JesusAraujoDEV&theme=nightowl&hide_border=true&background=011627" alt="GitHub Streak" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <a href="https://github.com/JesusAraujoDEV">
-    <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JesusAraujoDEV&layout=compact&theme=nightowl&hide_border=true&bg_color=011627&langs_count=8" alt="Top Languages"/>
+    <img src="https://ghstats.dev/api/card?username=JesusAraujoDEV&theme=nightowl&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=JesusAraujoDEV&theme=nightowl&hide_border=true&background=011627" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -159,6 +148,10 @@ fun_fact: "If you can imagine it, you can program it"
 <p align="center">
   <a href="https://www.linkedin.com/in/jes%C3%BAs-araujo-5ba6b0274/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.xing.com/profile/Jesus_Araujo068222/web_profiles?nwt_nav=profile_icon">
+    <img src="https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/jesulovescereal/">
