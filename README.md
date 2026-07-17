@@ -18,6 +18,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img height="280rem" alt="GIF" src="https://c.tenor.com/b3xW7DQjtc0AAAAC/tenor.gif" />
+</p>
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
@@ -103,25 +107,19 @@ fun_fact: "If you can imagine it, you can program it"
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JesusAraujoDEV&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies" />
-  </a>
-</p>
-
 <table width="100%">
   <tr>
     <td width="50%">
       <p align="center">
         <a href="https://github.com/JesusAraujoDEV">
-          <img src="https://github-readme-stats.vercel.app/api?username=JesusAraujoDEV&count_private=true&show_icons=true&theme=nightowl&hide_border=true&bg_color=011627" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JesusAraujoDEV&count_private=true&show_icons=true&theme=nightowl&hide_border=true&bg_color=011627" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <p align="center">
-        <a href="https://github.com/JesusAraujoDEV">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusAraujoDEV&theme=nightowl&hide_border=true&background=011627" alt="GitHub Streak" />
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com/?user=JesusAraujoDEV&theme=nightowl&hide_border=true&background=011627" alt="GitHub Streak" />
         </a>
       </p>
     </td>
@@ -130,7 +128,7 @@ fun_fact: "If you can imagine it, you can program it"
 
 <p align="center">
   <a href="https://github.com/JesusAraujoDEV">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAraujoDEV&layout=compact&theme=nightowl&hide_border=true&bg_color=011627&langs_count=8" alt="Top Languages"/>
+    <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JesusAraujoDEV&layout=compact&theme=nightowl&hide_border=true&bg_color=011627&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
@@ -189,6 +187,10 @@ fun_fact: "If you can imagine it, you can program it"
 </p>
 
 <br>
+
+<p align="center">
+  <img height="280rem" alt="GIF" src="https://c.tenor.com/9v_xCrM_qyMAAAAd/tenor.gif" />
+</p>
 
 <p align="center">
   <b>Thank you for visiting my profile! Let's build something amazing together. 🚀</b>
