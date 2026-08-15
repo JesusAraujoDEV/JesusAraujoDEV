@@ -135,8 +135,8 @@ fun_fact: "If you can imagine it, you can program it"
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> &nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/JoseS-Dev/VeloMMA/issues/11) in [JoseS-Dev/VeloMMA](https://github.com/JoseS-Dev/VeloMMA)
-2. 💪 Opened PR [#1](https://github.com/cesardarizaleta/jepo/pull/1) in [cesardarizaleta/jepo](https://github.com/cesardarizaleta/jepo)
+1. 🔒 Closed issue [#1](https://github.com/JesusAraujoDEV/portfolio/issues/1) in [JesusAraujoDEV/portfolio](https://github.com/JesusAraujoDEV/portfolio)
+2. 🗣 Commented on [#1](https://github.com/JesusAraujoDEV/portfolio/issues/1#issuecomment-5295681019) in [JesusAraujoDEV/portfolio](https://github.com/JesusAraujoDEV/portfolio)
 <!--END_SECTION:activity-->
 
 <br>
