@@ -135,8 +135,8 @@ fun_fact: "If you can imagine it, you can program it"
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> &nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/JesusAraujoDEV/portfolio/issues/1) in [JesusAraujoDEV/portfolio](https://github.com/JesusAraujoDEV/portfolio)
-2. 🗣 Commented on [#1](https://github.com/JesusAraujoDEV/portfolio/issues/1#issuecomment-5295681019) in [JesusAraujoDEV/portfolio](https://github.com/JesusAraujoDEV/portfolio)
+1. 🔒 Closed issue [#3](https://github.com/JesusAraujoDEV/portfolio/issues/3) in [JesusAraujoDEV/portfolio](https://github.com/JesusAraujoDEV/portfolio)
+2. 🗣 Commented on [#3](https://github.com/JesusAraujoDEV/portfolio/issues/3#issuecomment-5514837578) in [JesusAraujoDEV/portfolio](https://github.com/JesusAraujoDEV/portfolio)
 <!--END_SECTION:activity-->
 
 <br>
