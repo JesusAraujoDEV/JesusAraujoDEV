@@ -135,8 +135,8 @@ fun_fact: "If you can imagine it, you can program it"
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> &nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/JesusAraujoDEV/portfolio/issues/3) in [JesusAraujoDEV/portfolio](https://github.com/JesusAraujoDEV/portfolio)
-2. 🗣 Commented on [#3](https://github.com/JesusAraujoDEV/portfolio/issues/3#issuecomment-5514837578) in [JesusAraujoDEV/portfolio](https://github.com/JesusAraujoDEV/portfolio)
+1. 🎉 Merged PR [#4](https://github.com/JesusAraujoDEV/wallets-frontend/pull/4) in [JesusAraujoDEV/wallets-frontend](https://github.com/JesusAraujoDEV/wallets-frontend)
+2. 💪 Opened PR [#4](https://github.com/JesusAraujoDEV/wallets-frontend/pull/4) in [JesusAraujoDEV/wallets-frontend](https://github.com/JesusAraujoDEV/wallets-frontend)
 <!--END_SECTION:activity-->
 
 <br>
