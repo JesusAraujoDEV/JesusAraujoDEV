@@ -135,8 +135,8 @@ fun_fact: "If you can imagine it, you can program it"
 
 ## <img src="https://media.giphy.com/media/L0Vs5Iu7Gf13aPjPzF/giphy.gif" width="25"> &nbsp;Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/JeanCaOLO/sto_tms_olo/pull/28) in [JeanCaOLO/sto_tms_olo](https://github.com/JeanCaOLO/sto_tms_olo)
-2. 💪 Opened PR [#28](https://github.com/JeanCaOLO/sto_tms_olo/pull/28) in [JeanCaOLO/sto_tms_olo](https://github.com/JeanCaOLO/sto_tms_olo)
+1. 💪 Opened PR [#31](https://github.com/JeanCaOLO/sto_tms_olo/pull/31) in [JeanCaOLO/sto_tms_olo](https://github.com/JeanCaOLO/sto_tms_olo)
+2. 🎉 Merged PR [#28](https://github.com/JeanCaOLO/sto_tms_olo/pull/28) in [JeanCaOLO/sto_tms_olo](https://github.com/JeanCaOLO/sto_tms_olo)
 <!--END_SECTION:activity-->
 
 <br>
